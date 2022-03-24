@@ -1,0 +1,42 @@
+1|Baines Drift|B
+2|Bokspits|IN
+3|Francistown|IN
+4|Gaborone|IN
+5|Ghanzi|IN
+6|Gweta|IN
+7|Hukuntsi|IN
+8|Jwaneng|IN
+9|Kang|IN
+10|Kanye|IN
+11|Kasane|IN
+12|Kazungula|B
+13|Letlhakeng|IN
+14|Lobatse|IN
+15|Mahalapye|IN
+16|Mamuno|B
+17|Martins Drift|B
+18|Maun|IN
+19|Mochudi|IN
+20|Molepolole|IN
+21|Nata|IN
+22|Ngoma|IN
+23|Nokaneng|IN
+24|Orapa|IN
+25|Palapye|IN
+26|Parrs Halt|B
+27|Pioneer Gate|B
+28|Ramatlabama|B
+29|Ramokgwebana|B
+30|Ramotswa|B
+31|Sehithwa|IN
+32|Sekoma|IN
+33|Selebi-Philkwe|IN
+34|Serowe|IN
+35|Serule|IN
+36|Shakawe|IN
+37|Thamaga|IN
+38|Tlokweng Gate|B
+39|Tonota|IN
+40|Tsabong|IN
+41|Werde|B
+42|W. Mohembo|B
